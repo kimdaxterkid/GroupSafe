@@ -7,11 +7,11 @@ The back-end (Main servers) is powered by **Node.js**, **Express** and **Socket.
 
 ![CreateGroup](http://i.imgur.com/h3sbBGk.gif) ![CreateGroup2](http://i.imgur.com/42CSisG.gif)
 
-## Motivation
+## Motivation :egg:
 
 In many situations it is useful to be able to detect when a group member has wandered off from the rest of the group. In a college scene, a friend may drink too much and pass out in a wrong place. Our app will send notifications to members in a group when it detects a member has wandered too far from the rest of the group and will provide other useful information or ways to communicate amongst group members, so this way groups can **stick together** and help **prevent  dangerous or awkward situations**. Our app was actually inspired by such a situation and as such will be targeting college students as the user base. The primary target users will be young adults are who often form a small groups to explore the city, go out to bars, and/or other form of group activity where staying in a group is important. 
 
-## Features
+## Features :confetti_ball:
 - Safe group chatting :football:
 - Emoji supported :basketball:
 - Ability to kick users (for group holder) :tennis:
@@ -38,7 +38,7 @@ In many situations it is useful to be able to detect when a group member has wan
 
 Clone the whole repo to your desktop/server and run `npm install` to install all the dependencies.
 
-## Usage 
+## Usage :pushpin:
 Once the dependencies are installed:
 You can run  `node app.js` in the server folder to start the main server. You will then be able to access it at localhost:8080
 
@@ -114,8 +114,10 @@ Describe and show how to run the tests with code examples.
 | --- | --- | --- | --- | --- |
 | Sungha Song | Taiwen Jin | Zhichen Chen | Steffen Moseley | Arman Bahraini |
 
-## License
+## License :pencil:
+
 Copyright (c) 2016 Team GroupSafe@CS4704
+
 This project is licensed under the terms of the **MIT** license.
 
 
