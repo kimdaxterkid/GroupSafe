@@ -106,7 +106,10 @@ Using the NodeJS server Documentation: https://nodejs.org/api/
 
 ## Tests :hammer:
 
-Describe and show how to run the tests with code examples.
+All the codes are tested and passed to guarantee the system operation.
+The server Node.js codes are tested by Sungha, Taiwen and Zhizheng.
+The Android client codes are tested by Steffen, Taiwen.
+The HTHML5 web client codes are tested by Zhizheng.
 
 ## Team :mortar_board:
 
