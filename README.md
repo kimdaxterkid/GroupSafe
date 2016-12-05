@@ -5,7 +5,8 @@ GroupSafe Chat is a full stack application for people who needs a secret chattin
 The front-end is written in **Android** and **HTML** for different users.
 The back-end (Main servers) is powered by **Node.js**, **Express** and **Socket.io** and **MongoDB** :floppy_disk: is implemented in the project to do data management work.
 
-![CreateGroup](http://i.imgur.com/h3sbBGk.gif) ![CreateGroup2](http://i.imgur.com/42CSisG.gif)
+| ![CreateGroup](http://i.imgur.com/h3sbBGk.gif) | ![CreateGroup2](http://i.imgur.com/42CSisG.gif) |
+| --- | --- |
 
 ## Motivation :egg:
 
